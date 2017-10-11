@@ -1,0 +1,26 @@
+# Max OSX
+.DS_Store
+
+# BASH
+.bash_history
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IPython
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+.ipython
+*/notebooks/.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+module3/test.csv
+
+module3/test.pdf
+
+module4/test.csv
+
+Project/loan.csv
+
+Project/old.loan.csv
