@@ -15,12 +15,15 @@ notebooks/.ipynb_checkpoints
 */notebooks/.ipynb_checkpoints
 */.ipynb_checkpoints
 
-module3/test.csv
+*.sql
 
-module3/test.pdf
 
-module4/test.csv
+Module2/notebooks/airports.txt
 
-Project/loan.csv
+Module2/notebooks/help.txt
 
-Project/old.loan.csv
+Module2/notebooks/test
+
+Module2/notebooks/test.dat
+
+Module2/notebooks/test.p
