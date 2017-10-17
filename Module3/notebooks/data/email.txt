@@ -1,0 +1,20 @@
+From: ACCY 570 Instructor <no-reply@illinois.edu>
+Subject: [Instr Note] New Docker Course Image
+Date: September 29, 2017 at 5:54:37 PM CDT
+To: a.student@gmail.com
+
+Instructor Robert J. Brunner posted a new Note. 
+
+New Docker Course Image
+
+We generated a new Docker course image. If you want to follow along on your laptop or work on the course Notebooks offline, you should download this new image by issuing a 
+
+docker pull lcdm/rppdm-standalone
+
+command at a Unix command line prompt. On the other hand, if you simply use the JupyterHub Server, no action is required on your part (we have already updated the server).
+
+Let us know if you have any questions.
+
+Robert
+
+You're receiving this email because a.student@gmail.com is enrolled in ACCY 570 at University of Illinois. Sign in to manage your email preferences or un-enroll from this class. 
