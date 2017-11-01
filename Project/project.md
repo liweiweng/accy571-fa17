@@ -46,7 +46,8 @@ Summarize your results, in plain english, as if this is the only part your boss 
 - Completeing the objectives will most likely __NOT__ proceed linearly. Analysis and data pulling will influence each other and each of these will influence the types of questions you can ask/answer.
 - [Database schematic] (https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/9c5f7a89fd08/assets/img/dataset/yelp_dataset_schema.png)
   - The photo dataset is missing on purpose.
-- There are no wrong answers
+- There is no one correct answer.
+- Have fun with this! Yelp datasets contains a lot of really interesting information and we want you to have fun exploring.
 
 
 
